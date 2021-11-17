@@ -9,7 +9,7 @@ Delete all partitions manually, and the try again the default install process.
 - Go to `flathub.org` and install an application to add the Flathub remote to AppCenter.
 - Open AppCenter and update everything.
 - Open Terminal and install possibly missing drivers (NVidia for example): `sudo ubuntu-drivers install`.
-- Go to Settings -> Power and disable automatic display brightness adjusment.
+- Go to Settings -> Power and disable automatic display brightness adjustment.
 - Go to Settings -> Mouse & Touchpad -> Touchpad and turn off natural scrolling.
 - Right click on the Dock in an empty part and select Prefereces. Change Position to whatever you prefer.
 - Go to Settings -> Keyboard. Disable Super key behaviour, disable layout switch, replace the Close shortcut with Super+Q
