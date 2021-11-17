@@ -61,6 +61,8 @@ Other:
 - VirtualBox + Guest additions
 - Docker
 
+Generate `~/.ssh/id_rsa` and `~/.ssh/id_rsa.pub` using `ssh-keygen` and upload the public key to GitHub/GitLab/etc.
+
 ### Useful apt packages
 
 - curl
