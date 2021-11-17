@@ -6,6 +6,8 @@ Delete all partitions manually, and the try again the default install process.
 
 ## Post installation
 
+Run `sudo ubuntu-drivers install` in case some drivers are missing.
+
 - Go to `flathub.org` and install an application to add the Flathub remote to AppCenter.
 - Open AppCenter and update everything.
 - Open Terminal and install possibly missing drivers (NVidia for example): `sudo ubuntu-drivers install`.
