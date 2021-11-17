@@ -70,3 +70,7 @@ Generate `~/.ssh/id_rsa` and `~/.ssh/id_rsa.pub` using `ssh-keygen` and upload t
 - ffmpeg
 - hardinfo
 - gnome-system-monitor
+
+## Convenience
+
+- Create `~/.bash_aliases` and define the command aliases you need (eg. `alias vscode="flatpak run com.visualstudio.code"`).
