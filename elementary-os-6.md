@@ -46,6 +46,7 @@ Text editors, office suites, etc.:
 
 Other:
 
+- Skype
 - Spotify
 - VLC
 - qBittorrent
