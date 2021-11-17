@@ -53,7 +53,7 @@ Other:
 
 ### Development
 
-- VSCode (Python, ESLint, Markdown All in One, Prettier, Git Graph, Docker)
+- VSCode (Extensions: Python, ESLint, Markdown All in One, Prettier, Git Graph, Docker; Preferences: format on save, default formatter, clear word separator list to prevent annoying auto completions, disable explorer auto reveal feature)
 - Homebrew (Python, Node, NPM, Pipenv, ...)
 - MongoDB & MongoDB Compass
 - NVidia CUDA
