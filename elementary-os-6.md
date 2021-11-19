@@ -66,11 +66,12 @@ Generate `~/.ssh/id_rsa` and `~/.ssh/id_rsa.pub` using `ssh-keygen` and upload t
 
 ### Useful apt packages
 
+- ack
 - curl
-- gnome-disk-utility
 - ffmpeg
-- hardinfo
+- gnome-disk-utility
 - gnome-system-monitor
+- hardinfo
 
 ## Convenience
 
