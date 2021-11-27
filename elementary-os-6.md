@@ -6,14 +6,13 @@ Delete all partitions manually, and the try again the default install process.
 
 ## Post installation
 
-Run `sudo ubuntu-drivers install` in case some drivers are missing.
+Open the Terminal and run `sudo ubuntu-drivers install` in case some drivers are missing.
 
 - Go to `flathub.org` and install an application to add the Flathub remote to AppCenter.
 - Open AppCenter and update everything.
-- Open Terminal and install possibly missing drivers (NVidia for example): `sudo ubuntu-drivers install`.
 - Go to Settings -> Power and disable automatic display brightness adjustment.
 - Go to Settings -> Mouse & Touchpad -> Touchpad and turn off natural scrolling.
-- Right click on the Dock in an empty part and select Prefereces. Change Position to whatever you prefer.
+- Right click on the Dock in an empty part and select Preferences. Change Position to whatever you prefer.
 - Go to Settings -> Keyboard. Disable Super key behaviour, disable layout switch, replace the Close shortcut with Super+Q
 
 After all applications are installed, go to Settings -> Applications -> Startup and set up auto-startup applications.
