@@ -40,16 +40,20 @@ Text editors, office suites, etc.:
 - OnlyOffice
 - Joplin (complete notes application)
 - Quilter (text editor)
+- Norka (text editor)
 - GIMP
 - Inkscape
+- Annotator (image annotate)
 
 Other:
 
 - Skype
 - Spotify
+- Tuner (web radio app)
 - VLC
 - qBittorrent
 - Steam (add i386 architecture first using `sudo dpkg --add-architecture i386`)
+- Fondo (wallpaper finder)
 
 ### Development
 
