@@ -75,6 +75,7 @@ Generate `~/.ssh/id_rsa` and `~/.ssh/id_rsa.pub` using `ssh-keygen` and upload t
 - gnome-disk-utility
 - gnome-system-monitor
 - hardinfo
+- net-tools
 
 ## Convenience
 
