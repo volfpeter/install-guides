@@ -43,6 +43,7 @@ Text editors, office suites, etc.:
 - Norka (text editor)
 - GIMP
 - Inkscape
+- Zoom
 - Annotator (image annotate)
 
 Other:
