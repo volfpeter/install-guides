@@ -5,3 +5,5 @@
 [Nvidia driver upgrade](./nvidia-upgrade.md) guide
 
 [Fixing VirtualBox](./virtualbox.md)
+
+[Installing and running Augustus](./augustus.md)
