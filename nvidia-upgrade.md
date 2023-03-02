@@ -13,8 +13,9 @@ Only do this if the operating system is unable to upgrade the driver using its o
 ## Ubuntu 22-based distros (e.g. elementary OS 7)
 
 1. Remove all nvidia packages: `sudo apt remove --purge '^nvidia-.*'`
-2. Remove automatically install, but unused packages: `sudo apt autoremove`
-3. List available driver options with `ubuntu-drivers list`
-4. Copy the driver version (e.g. nvidia-driver-525) you'd like to install
-5. Install the driver with `sudo apt install <driver>`
-6. Restart the operating system
+2. Remove automatically installed, but unused packages: `sudo apt autoremove`
+3. Reinstall linux headers if needed: `sudo apt install linux-headers-$(uname -r)`
+4. List available driver options with `ubuntu-drivers list`
+5. Copy the driver version (e.g. nvidia-driver-525) you'd like to install
+6. Install the driver with `sudo apt install <driver>`
+7. Restart the operating system
